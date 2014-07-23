@@ -10,7 +10,7 @@
             "email": "geloen.eric@gmail.com"
         }
     ],
-    "repository": [
+    "repositories": [
 	{
 	    "type": "vcs",
 	    "url":  "https://github.com/mrychlik/ivory-google-map.git"
